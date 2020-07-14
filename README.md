@@ -1,5 +1,5 @@
 # Yijian Hu
-#+1 520 907 8806 | yijianhu1011@gmail.com | linkedin.com/in/yijianhu-5209078806
+<Br>+1 520 907 8806 | yijianhu1011@gmail.com | linkedin.com/in/yijianhu-5209078806</Br>
 Summary
 Software Engineering student who is currently looking for internship opportunity in 2020 Fall or full-time opportunity starting in December 2020. Graduated in Aug 2018 with a Bachelor’s Degree in Computer Science and currently pursuing Master’s Degree in Software Engineering. Highly skilled in programming with a great passion to work and learn. Worked in the IMPACT Mobile Computing lab at Arizona State University on Virtual Classroom in 2019.
 Skills
