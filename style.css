@@ -1,0 +1,23 @@
+#title 
+{
+    text-align: center;
+}
+
+.contactInfo
+{
+    text-align: center;
+}
+
+body
+{
+    margin-top:11.8%;
+    margin-bottom:11.8%;
+    margin-left:19.1%;
+    margin-right:19.1%
+}
+
+.dateTag
+{
+    float:right;
+    text-align-last: end;
+}
